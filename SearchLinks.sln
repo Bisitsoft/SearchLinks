@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchLinks", "SearchLinks\SearchLinks.csproj", "{E09043F1-937B-447E-BA58-D69C729AEA4B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LibSearchLinks", "LibSearchLinks\LibSearchLinks.vcxitems", "{C59A228B-A59C-4400-A793-97F39BFBFC26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E09043F1-937B-447E-BA58-D69C729AEA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09043F1-937B-447E-BA58-D69C729AEA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09043F1-937B-447E-BA58-D69C729AEA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09043F1-937B-447E-BA58-D69C729AEA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33410A18-A90D-45A5-8F03-E2FA1E285231}
+	EndGlobalSection
+EndGlobal

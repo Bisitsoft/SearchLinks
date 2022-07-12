@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SearchLinks": {
+      "commandName": "Project",
+      "commandLineArgs": "C:/"
+    }
+  }
+}
